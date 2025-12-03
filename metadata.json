@@ -1,0 +1,5 @@
+{
+  "name": "Aura Background Generator",
+  "description": "Generate dreamy, ethereal abstract backgrounds based on your chosen color palette using Gemini AI.",
+  "requestFramePermissions": []
+}
